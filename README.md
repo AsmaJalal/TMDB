@@ -1,7 +1,7 @@
 This is a new [**Android App**].💡
 
 # This is an android application that shows Lists of movies and Tv Shows with the help of  TMDB (the Movie DataBase) api.
-
+<img align="right" width="1400" height="400" src="https://github.com/AsmaJalal/TMDB/blob/main/a210419a-35ba-4446-99e8-af412ca35600.jpeg" alt="Asma Jalal">
 # Getting Started🚀
 
 # GIF IMAGE with working with👇
